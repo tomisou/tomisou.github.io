@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    background-color:#000
+}
+.mainHeader{
+    background-color: #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left; 
+}
+h1{
+    color:#fff;
+    margin:0px;
+    padding-left: 10px;
+}
+.mainCont{
+    background:url(yuji-watanabe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 400px;
+}
+h2 a{
+    color:#fff;
+    font-size: 34px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.subCont .innerH{
+    color:#fff
+}
+.subCont .p1{
+    color:#fff;
+    font-size: 15px;
+    padding: 10px;
+ }
+
+.subCont .inner{
+    color:#fff;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.mainCont2{
+    background: url(IMG_7230.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover;
+    height: 400px; 
+}
+.subCont2 .innerH{
+    color:#fff;
+}
+.subCont2 .p1{
+    color: #fff;
+    font-size:15px;
+    padding: 10px;
+}
+.footer{
+    background: #000;
+    height: 75px;
+}
+.footer p{
+    color :#fff;
+    text-align:center;
+    font-size: 20px;
+    padding-top: 23px; 
+}
